@@ -1,0 +1,16 @@
+body {
+    padding: 20px
+}
+
+a {
+    color: #20BC57
+}
+
+a:hover {
+    text-decoration: none
+}
+
+.project-list-item {
+    display: inline-block;
+    margin-bottom: 10px;
+}
