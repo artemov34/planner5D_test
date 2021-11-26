@@ -1,2 +1,3 @@
-# npm i
-# npm run serve
+- pull project
+- run: npm i
+- run: npm run serve
